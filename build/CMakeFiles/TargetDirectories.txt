@@ -1,0 +1,3 @@
+C:/Users/norac/Documents/chadCoding/learnCmake/build/CMakeFiles/edit_cache.dir
+C:/Users/norac/Documents/chadCoding/learnCmake/build/CMakeFiles/main.dir
+C:/Users/norac/Documents/chadCoding/learnCmake/build/CMakeFiles/rebuild_cache.dir
